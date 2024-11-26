@@ -1,0 +1,5 @@
+- True
+- Helpful
+- Inspiring
+- Necessary
+- Kind

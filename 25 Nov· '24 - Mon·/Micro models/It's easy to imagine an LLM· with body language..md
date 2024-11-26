@@ -1,0 +1,1 @@
+They can already interpret intent and emotions; all we would have to do is draw up some faces for it and let it pick one to display while reading out its generated text. It wouldn't have to be perfect or even human; we do not walk around critiquing the way other people are displaying their emotions. Whatever way it does it would be good enough.

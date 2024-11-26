@@ -1,0 +1,1 @@
+Intelligence needs friction. Where are all the aliens? Beyond the event horizon.

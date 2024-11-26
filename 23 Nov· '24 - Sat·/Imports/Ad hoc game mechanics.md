@@ -1,0 +1,1 @@
+Decisions on state transition validity ought to be recorder for future consistency's sake.

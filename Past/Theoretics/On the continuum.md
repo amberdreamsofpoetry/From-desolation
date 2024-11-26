@@ -1,0 +1,1 @@
+The continuum is a sort of ring. Thinking as it divides its inside from its outside as the reals divide the positive imaginary complex numbers from their negative counterparts. Similarly, you can move either clockwise or counterclockwise endlessly while still making progress, positively or negatively.

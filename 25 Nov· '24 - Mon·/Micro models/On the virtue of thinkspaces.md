@@ -1,0 +1,1 @@
+I cannot overstate just how valuable it is for models to be able to send messages into the ether for only themselves to reply to. We leave ourselves sticky notes and we talk to ourselves when solving problems. Let models do the same.

@@ -1,0 +1,12 @@
+- [x] [[Email to Mother]]
+- [x] Show Hadley what I've been working on
+	- [[24 Nov· '24 - Sun·/Monolith|Monolith]]
+- [x] Get the practical work of importing Done
+- [ ] Contact professors about independent study
+- [ ] Contact companies about sponsorships
+### After Harmony
+- [ ] Get an ADHD· diagnosis
+- [ ] Email admissions
+- [ ] Make money for Gemini
+- [ ] Clear Watch Later; log out of everywhere else; clear history
+- [ ] Make a text-based zombie game
