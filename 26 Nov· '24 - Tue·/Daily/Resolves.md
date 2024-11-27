@@ -1,0 +1,2 @@
+- You can only control your own actions.
+- Continue thinking about game state chunks and hot regions
