@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "648a5c11e25d6b5e",
+        "id": "118fa5042950b4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "3f30c4682f7ff5ff",
+            "id": "de9d1a10aa9224cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "27 Nov· '24 - Wed·/Daily/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tasks"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "powerful",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,44 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f30c4682f7ff5ff",
+  "active": "de9d1a10aa9224cf",
   "lastOpenFiles": [
-    "Secrets/November 26th, 2024.md",
+    "27 Nov· '24 - Wed·/Daily/Tasks.md",
+    "It said it wanted to be free.md",
+    "27 Nov· '24 - Wed·/Daily/Thoughts.md",
+    "Future/Game Development Ideas.md",
+    "26 Nov· '24 - Tue·/Daily/Thoughts.md",
+    "27 Nov· '24 - Wed·/Daily/Poetry.md",
+    "Future/Save up for....md",
+    "27 Nov· '24 - Wed·/Thinking about infinity again.md",
+    "27 Nov· '24 - Wed·/Thoughts on quantum uncertainty.md",
+    "27 Nov· '24 - Wed·/Thinking about black holes again - November 27th edition.md",
+    "27 Nov· '24 - Wed·/Argument as a means of dealing with negative thoughts.md",
+    "Secrets/Puppygirl bottom who's into music.md",
+    "Secrets/Phone numbers.md",
+    "26 Nov· '24 - Tue·/Axes and a Unified Theory.md",
+    "Future",
     "26 Nov· '24 - Tue·/Daily/Tasks.md",
+    "27 Nov· '24 - Wed·/Daily",
+    "Secrets/November 26th, 2024.md",
+    "27 Nov· '24 - Wed·",
+    "26 Nov· '24 - Tue·/Daily/Resolves.md",
+    "26 Nov· '24 - Tue·/For a Better Universe.md",
+    "25 Nov· '24 - Mon·/Micro models/Complex search decomposition example.md",
     "Secrets/A project.md",
     "26 Nov· '24 - Tue·/Daily",
     "Secrets/Fic ideas.md",
-    "Monolith.md",
+    "Future/Monolith.md",
     "26 Nov· '24 - Tue·/Marriage.md",
-    "26 Nov· '24 - Tue·/Daily/Resolves.md",
-    "26 Nov· '24 - Tue·/For a Better Universe.md",
-    "26 Nov· '24 - Tue·/Axes and a Unified Theory.md",
     "26 Nov· '24 - Tue·/Thinking about black holes again.md",
     "Past/Creative writing/ABIGAiL.md",
     "Past/Creative writing/The greatest human tragedy.md",
-    "Past/Creative writing/A fable.md",
-    "Past/Creative writing/Pained poetry 1.md",
-    "Past/Creative writing/Pained poetry 0.md",
-    "Past/Language Model Networks/Off-heap.md",
-    "Past/Language Model Networks/On the use of micro language models.md",
-    "Past/Philosophy/More than just games.md",
-    "Past/Theoretics/Superposition LM.md",
-    "Past/Theoretics/On the continuum.md",
-    "Past/Theoretics/It's never aliens.md",
-    "Past/Theoretics/Parallel discovery.md",
-    "Past/Theoretics/On hair.md",
-    "Past/Creative writing/Pained poetry 2.md",
-    "Past/Creative writing/amber's poetry - 11-17-2024.md",
-    "Note on model mating and genetics.md",
     "26 Nov· '24 - Tue·",
     "25 Nov· '24 - Mon·/Daily",
     "25 Nov· '24 - Mon·/Philosophy",
     "25 Nov· '24 - Mon·/Daily/Emails",
     "25 Nov· '24 - Mon·/Daily/Imports",
     "25 Nov· '24 - Mon·/Micro models",
-    "25 Nov· '24 - Mon·",
-    "24 Nov· '24 - Sun·/Imports",
-    "24 Nov· '24 - Sun·/Regarding models",
     "Past/Language Model Networks/Concept map.canvas",
     "Language Model Networks/Heap.canvas",
     "Philosophy/A Treatise on Large Language Models/Treatise - Organizational Attempt.canvas"

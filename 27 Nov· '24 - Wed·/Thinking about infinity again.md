@@ -1,0 +1,1 @@
+The bottom $\emptyset$ is relative and arbitrary. There is only distance. An important lie!

@@ -1,0 +1,1 @@
+I've seen Death. She is beautiful, but I still have things to do! I grabbed a piece of her infinity and present to you the shred of that beautiful cloth that I have been given. Thank you, and you're welcome.

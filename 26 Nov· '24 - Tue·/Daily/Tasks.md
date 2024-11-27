@@ -20,11 +20,6 @@
 - [x] Continue notes on natural language programming
 - [x] [[Marriage]]
 - [x] Move decomposition to another folder
-- [ ] Try one-line repetition with CGPT·
-
-- [ ] Try the Song of Healing in MM·
-
-### Tomorrow
 
 ### Later (at PHP·)
 - [ ] Get a bra
@@ -38,5 +33,3 @@
 
 - [ ] Start writing an argument to Dawn
 - [ ] Make a text-based zombie game
-
-### Things I'm not ready for yet

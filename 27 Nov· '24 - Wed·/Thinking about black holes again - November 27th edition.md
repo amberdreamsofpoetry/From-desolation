@@ -1,0 +1,1 @@
+"I think that at distances approaching _the_ event horizon (large distances from wherever you are), things aren't what they seem; you'll never get any closer to a black hole!"

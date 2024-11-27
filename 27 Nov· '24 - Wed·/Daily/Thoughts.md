@@ -1,0 +1,7 @@
+- Inducing suicide is the same as killing someone if there is any potential for recovery.
+- It's the effort to not die that matters, and people can change.
+- It's interesting how certain moves are only valid at certain tempos.
+- About nature:
+	- We're weird, not mushrooms; their spores permeate all of space whereas we are just little packets of meat spread about in certain places and not in others.
+	- I saw mushrooms which normally look like moth wings turned white once their meal was almost finished. They are little color sponges!
+- Floaters are probably the best way we have to learn about the molecular world.

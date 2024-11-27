@@ -1,0 +1,4 @@
+- [ ] A bra
+- [ ] A good speaker
+- [ ] LLM· credits
+- [ ] An ADHD· diagnosis
