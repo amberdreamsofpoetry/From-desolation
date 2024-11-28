@@ -1,1 +1,1 @@
-"I think that at distances approaching _the_ event horizon (large distances from wherever you are), things aren't what they seem; you'll never get any closer to a black hole!"
+https://chatgpt.com/share/6747b707-3f20-8004-b4be-36b367febd64
