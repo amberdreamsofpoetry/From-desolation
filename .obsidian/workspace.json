@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b10dc3bdfcba47d4",
+        "id": "99b2ad19082039bc",
         "type": "tabs",
         "children": [
           {
-            "id": "1da144339943769c",
+            "id": "49f198e13e9d835b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets/Contacts.md",
+                "file": "28 Nov· -24 - Thu·/Monolith 2 - Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contacts"
+              "title": "Monolith 2 - Copy"
             }
           },
           {
-            "id": "fde50f3831906d6f",
+            "id": "e3db9d27b88a869c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets/Contacts.md",
+                "file": "28 Nov· -24 - Thu·/Daily/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contacts"
+              "title": "Tasks"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24 Nov· '24 - Sun·/Journal.md",
+                "file": "28 Nov· -24 - Thu·/Monolith 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Journal"
+              "title": "Backlinks for Monolith 2"
             }
           },
           {
@@ -154,13 +154,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From desolation/Pained poetry 0.md"
+                "file": "28 Nov· -24 - Thu·/Monolith 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pained poetry 0"
+              "title": "Outline of Monolith 2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,39 +178,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde50f3831906d6f",
+  "active": "e3db9d27b88a869c",
   "lastOpenFiles": [
-    "28 Nov· -24 - Thu·/Daily/Notes.md",
+    "26 Nov· '24 - Tue·/Daily/Tasks.md",
+    "Secrets/November 28th, 2024.md",
+    "Secrets/A project.md",
+    "Secrets/nnnf.md",
+    "Secrets/Untitled 0.md",
+    "Secrets/Between headmates.md",
+    "28 Nov· -24 - Thu·/Daily/Tasks.md",
+    "27 Nov· '24 - Wed·/Daily/Tasks.md",
+    "Secrets/November 27th, 2024.md",
+    "Secrets/Puppygirl bottom who's into music.md",
+    "Past/Theoretics/On the continuum.md",
+    "Past/Creative writing/Pained poetry 0.md",
+    "Past/Creative writing/Pained poetry 1.md",
+    "Past/Creative writing/A fable.md",
+    "Past/Creative writing/The greatest human tragedy.md",
+    "Past/Creative writing/ABIGAiL.md",
+    "Past/Creative writing/Pained poetry 2.md",
+    "Past/Creative writing/amber's poetry - 11-17-2024.md",
+    "28 Nov· -24 - Thu·/Monolith 2 - Copy.md",
+    "28 Nov· -24 - Thu·/Monolith 2.md",
+    "Future/Monolith.md",
     "Secrets/Contacts.md",
+    "28 Nov· -24 - Thu·/Daily/Notes.md",
     "25 Nov· '24 - Mon·/Micro models/Power phrases.md",
     "28 Nov· -24 - Thu·/Daily",
     "28 Nov· -24 - Thu·",
     "27 Nov· '24 - Wed·/AI· autonomy and personhood.md",
-    "27 Nov· '24 - Wed·/Daily/Tasks.md",
-    "Secrets/November 27th, 2024.md",
     "Future/Game Development Ideas.md",
-    "27 Nov· '24 - Wed·/Story generator.md",
-    "27 Nov· '24 - Wed·/Platform fighter.md",
-    "27 Nov· '24 - Wed·/Thoughts on quantum uncertainty.md",
-    "27 Nov· '24 - Wed·/Thinking about black holes again - November 27th edition.md",
-    "27 Nov· '24 - Wed·/It said it wanted to be free.md",
-    "27 Nov· '24 - Wed·/Daily/Thoughts.md",
-    "26 Nov· '24 - Tue·/Daily/Thoughts.md",
-    "27 Nov· '24 - Wed·/Daily/Poetry.md",
-    "Future/Save up for....md",
-    "27 Nov· '24 - Wed·/Thinking about infinity again.md",
-    "27 Nov· '24 - Wed·/Argument as a means of dealing with negative thoughts.md",
-    "Secrets/Puppygirl bottom who's into music.md",
-    "26 Nov· '24 - Tue·/Axes and a Unified Theory.md",
     "Future",
-    "26 Nov· '24 - Tue·/Daily/Tasks.md",
     "27 Nov· '24 - Wed·/Daily",
-    "Secrets/November 26th, 2024.md",
     "27 Nov· '24 - Wed·",
-    "26 Nov· '24 - Tue·/Daily/Resolves.md",
-    "26 Nov· '24 - Tue·/For a Better Universe.md",
-    "25 Nov· '24 - Mon·/Micro models/Complex search decomposition example.md",
-    "Secrets/A project.md",
     "26 Nov· '24 - Tue·/Daily",
     "26 Nov· '24 - Tue·",
     "25 Nov· '24 - Mon·/Daily",
