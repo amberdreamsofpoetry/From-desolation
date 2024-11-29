@@ -1,0 +1,1 @@
+- [Wikipedia - Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)

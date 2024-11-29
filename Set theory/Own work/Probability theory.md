@@ -1,0 +1,3 @@
+- [Quantum Logic and Probability Theory](https://plato.stanford.edu/entries/qt-quantlog/)
+- [Wikipedia - Probability theory](https://en.wikipedia.org/wiki/Probability_theory)
+- 

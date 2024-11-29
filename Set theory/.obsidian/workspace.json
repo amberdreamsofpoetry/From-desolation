@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cce594b1c8ac1bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "909c51d078cb09de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416b2c268b8bcc51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Example 2.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example 2.4"
+            }
+          },
+          {
+            "id": "580006e1d4d7e95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.13 (Strings).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example 2.13 (Strings)"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5a5084f8656fcb72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60675565a86fd603",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0d5a87b5b46bdda",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b6b43a11f0a6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c43cd7215f079d5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5a33bfa79a0c26c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "230a36abbde2593a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09855360b21df269",
+    "type": "split",
+    "children": [
+      {
+        "id": "08cd2df4cd36a82d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c6ce449040d2d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Infinitesimal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Infinitesimal"
+            }
+          },
+          {
+            "id": "4ac88b9148057db6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Infinitesimal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Infinitesimal"
+            }
+          },
+          {
+            "id": "88354139ec3733a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d966ce4874488ba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Infinitesimal.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Infinitesimal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "580006e1d4d7e95f",
+  "lastOpenFiles": [
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.12.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.13 (Strings).md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.10 (Power Set).md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Example 2.2.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.9.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.5 (Subset).md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Set.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Example 2.4.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Definition 2.1 (Extensionality).md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Proposition 2.8.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Example 2.6.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.3 - Pathologies/Hilbert's curve.md",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality",
+    "Part II - Naïve Set Theory/Chapter 2 - Getting Started",
+    "Part II - Naïve Set Theory",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.5 - Roadmap",
+    "Own work",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Differentiation.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits/Limit.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits/Continuous function.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.4 - More Myth than History",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.3 - Pathologies",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Infinitesimal.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Gradient.md",
+    "Own work/Quantum logic.md",
+    "Own work/Quantum foundations.md",
+    "Own work/Probability theory.md",
+    "Own work/Probabilistic systems.md",
+    "Own work/Fuzzy logic.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Function.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits",
+    "Own work/Category theory.md",
+    "Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Calculus.md",
+    "Welcome.md"
+  ]
+}

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28 Nov· -24 - Thu·/Monolith 2 - Copy.md",
+                "file": "Set theory/Own work/Probabilistic systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monolith 2 - Copy"
-            }
-          },
-          {
-            "id": "e3db9d27b88a869c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "28 Nov· -24 - Thu·/Daily/Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Probabilistic systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,44 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3db9d27b88a869c",
+  "active": "f657a25ecad0cb4b",
   "lastOpenFiles": [
-    "26 Nov· '24 - Tue·/Daily/Tasks.md",
-    "Secrets/November 28th, 2024.md",
-    "Secrets/A project.md",
-    "Secrets/nnnf.md",
-    "Secrets/Untitled 0.md",
-    "Secrets/Between headmates.md",
-    "28 Nov· -24 - Thu·/Daily/Tasks.md",
-    "27 Nov· '24 - Wed·/Daily/Tasks.md",
-    "Secrets/November 27th, 2024.md",
-    "Secrets/Puppygirl bottom who's into music.md",
-    "Past/Theoretics/On the continuum.md",
-    "Past/Creative writing/Pained poetry 0.md",
-    "Past/Creative writing/Pained poetry 1.md",
-    "Past/Creative writing/A fable.md",
-    "Past/Creative writing/The greatest human tragedy.md",
-    "Past/Creative writing/ABIGAiL.md",
-    "Past/Creative writing/Pained poetry 2.md",
-    "Past/Creative writing/amber's poetry - 11-17-2024.md",
+    "Set theory/Own work/Quantum foundations.md",
+    "Set theory/Own work/Quantum logic.md",
     "28 Nov· -24 - Thu·/Monolith 2 - Copy.md",
-    "28 Nov· -24 - Thu·/Monolith 2.md",
-    "Future/Monolith.md",
-    "Secrets/Contacts.md",
-    "28 Nov· -24 - Thu·/Daily/Notes.md",
-    "25 Nov· '24 - Mon·/Micro models/Power phrases.md",
-    "28 Nov· -24 - Thu·/Daily",
-    "28 Nov· -24 - Thu·",
-    "27 Nov· '24 - Wed·/AI· autonomy and personhood.md",
-    "Future/Game Development Ideas.md",
-    "Future",
-    "27 Nov· '24 - Wed·/Daily",
-    "27 Nov· '24 - Wed·",
-    "26 Nov· '24 - Tue·/Daily",
-    "26 Nov· '24 - Tue·",
-    "25 Nov· '24 - Mon·/Daily",
-    "25 Nov· '24 - Mon·/Philosophy",
-    "25 Nov· '24 - Mon·/Daily/Emails",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.13 (Strings).md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.12.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Proposition 2.8.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Example 2.6.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.9.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.5 (Subset).md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Definition 2.10 (Power Set).md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Set.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Example 2.4.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Example 2.2.md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality/Definition 2.1 (Extensionality).md",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.1 - Extensionality",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory/Chapter 2 - Getting Started",
+    "Set theory/Set Theory - An Open Introduction/Part II - Naïve Set Theory",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.3 - Pathologies/Hilbert's curve.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Infinitesimal.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Function.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Gradient.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation/Differentiation.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits/Limit.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits/Continuous function.md",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.3 - Pathologies",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.5 - Roadmap",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.1 - Infinitesimals and Differentiation",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.2 - Rigorous Definition of Limits",
+    "Set theory/Set Theory - An Open Introduction/Part I - Prelude/Chapter 1 - History and Mythology/1.4 - More Myth than History",
+    "Set theory/The Philosophy of Set Theory/Cantor's Continuum Hypothesis (CH).md",
+    "The Philosophy of Set Theory/Cantor's Continuum Hypothesis (CH).md",
+    "Set theory/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.13 (Strings).md",
+    "Set theory/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.3 - Some Important Sets/Example 2.12.md",
+    "Set theory/Part II - Naïve Set Theory/Chapter 2 - Getting Started/2.2 - Subsets and Power Sets/Example 2.6.md",
     "Past/Language Model Networks/Concept map.canvas",
     "Language Model Networks/Heap.canvas",
     "Philosophy/A Treatise on Large Language Models/Treatise - Organizational Attempt.canvas"

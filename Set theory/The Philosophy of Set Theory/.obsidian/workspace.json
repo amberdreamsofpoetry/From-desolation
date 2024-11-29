@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "6733dea236233495",
+    "type": "split",
+    "children": [
+      {
+        "id": "060820ee785f3058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f96864cf17f0b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cantor's Continuum Hypothesis (CH).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cantor's Continuum Hypothesis (CH)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11f14f01891496da",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb78583e4d990043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b424aa9b41f9c4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42fb8998e38dacf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60f8fcb0941bfda0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c296e02ba367abfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b9361cfcf272d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9224f5101d7ac15e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cantor's Continuum Hypothesis (CH).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cantor's Continuum Hypothesis (CH)"
+            }
+          },
+          {
+            "id": "b3e0e8e7fbae28c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cantor's Continuum Hypothesis (CH).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cantor's Continuum Hypothesis (CH)"
+            }
+          },
+          {
+            "id": "95caf8a027cc9b3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e93929f518d1f42f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cantor's Continuum Hypothesis (CH).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cantor's Continuum Hypothesis (CH)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f96864cf17f0b57",
+  "lastOpenFiles": [
+    "Cantor's Continuum Hypothesis (CH).md",
+    "Welcome.md"
+  ]
+}
