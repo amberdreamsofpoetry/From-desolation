@@ -1,11 +1,11 @@
-- [ ] Get headphones
-
 ### Future
+- [ ] Get headphones
 1. Schedule a meeting with my advisor
 2. Meeting...
 3. Email professors
 - [ ] Fix medication:
 	- [ ] Get off Citalopram
+	- [ ] Get hormones
 	- [ ] Get an ADHD· diagnosis
 - [ ] Move to Linux
 	- [ ] Check for external storage

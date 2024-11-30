@@ -1,4 +1,0 @@
-- Fair
-- avoid over-Apologizing
-- Stick to values
-- Truthful

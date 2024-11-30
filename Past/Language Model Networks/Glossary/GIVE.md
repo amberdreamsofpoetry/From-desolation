@@ -1,4 +1,0 @@
-- be Gentle
-- act Interested
-- be Validating
-- keep an Easy manner

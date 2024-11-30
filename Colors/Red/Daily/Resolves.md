@@ -1,3 +1,2 @@
-- Do not delete! Duplicate! Storage is cheap!
 - _Find_ a supportive network
 - Your goal is to get an audience by any means.
