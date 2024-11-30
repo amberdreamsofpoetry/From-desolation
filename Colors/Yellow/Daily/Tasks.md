@@ -10,7 +10,7 @@
 - [x] Write and keep the [[information mom forwarded me]]
 - [x] Email Kathy Ice-Wedding [kathy@cs.uky.edu]
 	- [x] [[Send dad a draft]]
-	- [x] Remember your [[25 Nov· '24 - Mon·/Daily/Resolves|Resolves]] and intent
+	- [x] Remember your [[Colors/Yellow/Daily/Resolves|Resolves]] and intent
 
 ### Top-level goals
 - [x] Get to PHP·

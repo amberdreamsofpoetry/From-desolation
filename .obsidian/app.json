@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "showUnsupportedFiles": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "promptDelete": false
 }

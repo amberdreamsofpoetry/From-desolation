@@ -14,7 +14,7 @@
 	- [-] [[Game Development Ideas]]
 		- [>] Splitting this out into [[Platform fighter]] and [[Story generator]]
 	- [x] [[Poetry]]
-	- [x] [[27 Nov· '24 - Wed·/Daily/Thoughts|Thoughts]]
+	- [x] [[Colors/Blue/Daily/Thoughts|Thoughts]]
 - [x] Go over extension settings
 - [x] Ask CGPT· to remember that conversation from yesterday
 - [x] [[It said it wanted to be free]]

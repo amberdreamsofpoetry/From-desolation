@@ -1,4 +1,4 @@
-[[23 Nov· '24 - Sat·/Resolves]]
+[[Colors/Red/Resolves]]
 - Do not delete! Duplicate! Storage is cheap!
 - _Find_ a supportive network
 - Your goal is to get an audience by any means.
