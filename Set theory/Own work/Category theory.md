@@ -1,1 +1,0 @@
-- [Wikipedia - Category theory](https://en.wikipedia.org/wiki/Category_theory)

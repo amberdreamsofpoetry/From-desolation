@@ -1,4 +1,5 @@
+- [ ] Headphones
 - [ ] A bra
-- [ ] A good speaker
-- [ ] LLM· credits
 - [ ] An ADHD· diagnosis
+- [ ] LLM· credits
+- [ ] A good speaker
